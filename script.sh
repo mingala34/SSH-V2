@@ -27,18 +27,17 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h4><font color='cyan'>
+servermessage="<h3><font color='cyan'>
 ⚎⚎✼⚎⚎мyτєℓ gcρ⚎⚎✼⚎⚎
-</font></h4>
-<h4><font color='pink'>
+</font></h3>
+<h3><font color='pink'>
 ⁖⁜⁜⁜⁜⁜჻ƒяєє ηєт.мм⁖⁜⁜⁜⁜჻
-</font></h4>
+</font></h3>
 <h4><font color='yellow'>
 ᙊᗘhttps://t.me/myanmarfreenᗛᙍ
+ ۞༶༶༶༶༶۞мg jα૮۞༶༶༶༶༶۞
 </font></h4>"
-<h3><font color='blue'>
-۞༶༶༶༶༶۞ʍg jα૮۞༶༶༶༶༶۞
-</font></h4>"
+
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
 [[ $EUID -ne 0 ]] && echo -e "${red}Error: ${plain} You must use root user to run this script!\n" && exit 1
