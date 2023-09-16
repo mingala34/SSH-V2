@@ -31,10 +31,8 @@ servermessage="<h4><font color='cyan'>
 ⚎⚎✼⚎⚎мyτєℓ gcρ⚎⚎✼⚎⚎⚎
 ⁖⁜⁜⁜⁜⁜⁜჻ƒяєє ηєт.мм⁖⁜⁜⁜⁜⁜჻
 </font></h4>
-<h4><font color='pink'>
-ᙊᗘhttps://t.me/myanmarfreenᗛᙍ
-</font></h4>
 <h4><font color='magenta'>
+☛https://t.me/myanmarfreen
 ۞༶༶༶༶༶༶۞мg jα૮۞༶༶༶༶༶༶۞
 </font></h4>"
 
