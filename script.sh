@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="1234"
-password="1234"
+username="iam404"
+password="iam404"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="200"
@@ -27,15 +27,15 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='cyan'>
-⚎⚎✼⚎⚎мyτєℓ gcρ⚎⚎✼⚎⚎
-</font></h3>
-<h3><font color='pink'>
-⁖⁜⁜⁜⁜⁜჻ƒяєє ηєт.мм⁖⁜⁜⁜⁜჻
-</font></h3>
-<h4><font color='yellow'>
+servermessage="<h4><font color='cyan'>
+⚎⚎✼⚎⚎мyτєℓ gcρ⚎⚎✼⚎⚎⚎
+⁖⁜⁜⁜⁜⁜⁜჻ƒяєє ηєт.мм⁖⁜⁜⁜⁜⁜჻
+</font></h4>
+<h4><font color='pink'>
 ᙊᗘhttps://t.me/myanmarfreenᗛᙍ
- ۞༶༶༶༶༶۞мg jα૮۞༶༶༶༶༶۞
+</font></h4>
+<h4><font color='magenta'>
+۞༶༶༶༶༶༶۞мg jα૮۞༶༶༶༶༶༶۞
 </font></h4>"
 
 #End
